@@ -55,6 +55,13 @@ The simulation results confirmed that the CMOS inverter operates correctly, prov
 
 4. Execute simulations using Cadence tools to validate the design and observe the results.
 
+##Screenshots
+![Screenshot-4](https://github.com/ugandhar-sist/cmos_inverter/assets/137391299/d2556112-05dc-4a12-8895-301f6a8b76b5)
+![Screenshot-5](https://github.com/ugandhar-sist/cmos_inverter/assets/137391299/50aaad85-cdf1-4de3-a77e-4c388c974df3)
+![Screenshot-1](https://github.com/ugandhar-sist/cmos_inverter/assets/137391299/144d2aa4-7eca-492f-b9ff-3b084388e03d)
+![Screenshot-2](https://github.com/ugandhar-sist/cmos_inverter/assets/137391299/caf9827b-8e71-4e21-8e60-49f0a7698407)
+![Screenshot-3](https://github.com/ugandhar-sist/cmos_inverter/assets/137391299/33a743ed-abd9-40d3-8682-c2fb9fa63a74)
+
 ## Conclusion
 
 This project demonstrates the design, simulation, and validation of a CMOS inverter using Cadence software. The provided design files can serve as a reference or starting point for similar CMOS inverter designs.
